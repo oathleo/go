@@ -14,6 +14,7 @@ func main() {
 	copy(s[1:4], s1)
 	fmt.Println(s, s1, s2)
 
+    println(123)
 //	s1[0] = 9
 //	fmt.Println(s, s1, s2)
 }
